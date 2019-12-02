@@ -9,7 +9,7 @@ package java3patterns;
  *
  * @author caixe
  */
-public class Java3patterns {
+public class Main {
 
     /**
      * @param args the command line arguments
