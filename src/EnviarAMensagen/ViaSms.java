@@ -3,17 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package java3patterns;
+package EnviarAMensagen;
 
 /**
  *
  * @author caixe
  */
-public class ViaWhatsapp implements EnviaMensagem {
-    
+public class ViaSms implements EnviaMensagem{
+   
+   @Override
     public void enviar(){
-        System.out.println("Envia mensagem via Whatsapp");
+       System.out.println("Enviando  mensagem por sms ");
     }
-    
-    
 }

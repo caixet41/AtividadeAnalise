@@ -1,5 +1,5 @@
 
-package java3patterns;
+package EnviarAMensagen;
 
 
 public class Pessoa {
