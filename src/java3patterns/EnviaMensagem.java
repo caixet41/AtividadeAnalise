@@ -7,5 +7,5 @@ package java3patterns;
 
 
 public interface EnviaMensagem {
-  public void enviar ();   
+  public void enviar () ;   
 }
