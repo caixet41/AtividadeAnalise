@@ -1,7 +1,7 @@
 # AtividadeAnalise
-atividade analise com 3 patterns
+atividade anáise com 3 patterns
 
-Foi desenvolvido uma aplicação que  gerencia as menagens enviadas a um suposto cliente.
+Foi desenvolvido uma aplicação que  gerencia as mensagens enviadas a um suposto cliente.
 enviando, processando, salvando as mensagens, assim como escolher o modo em que as mesmas serão enviadas.
 
 Para enviar a mensagem foi escolhido o strategy pois ele seleciona como ela sera enviada, sms ou whatsapp.
